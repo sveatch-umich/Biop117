@@ -1,4 +1,4 @@
-Dosage    Alertness
+Dosage,    Alertness
 a,                 30
 a,                 38
 a,                 35
